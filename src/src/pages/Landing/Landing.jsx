@@ -6,7 +6,6 @@ const Landing = () => {
     return (
         <div>
             <Weeklycard />
-            <h1>test</h1>
             <Getstarted />
             <BottomFooter />
         </div>
