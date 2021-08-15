@@ -1,13 +1,12 @@
 import React from 'react'
+import HeaderCat from '../../components/CategoryComponents/HeaderCat'
+import BottomFooter from '../../components/LandingComponents/BottomFooter'
 
 const Category = () => {
     return (
         <div>
-            <h1>Ini kategori</h1>
-            <h1>Ini kategori</h1>
-            <h1>Ini kategori</h1>
-            <h1>Ini kategori</h1>
-            <h1>Ini kategori</h1>
+            <HeaderCat/>
+            <BottomFooter/>
         </div>
     )
 }

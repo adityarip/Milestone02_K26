@@ -1,10 +1,9 @@
 import React from 'react'
+import Carousel from '../WeeklyComponents/Carousel'
 
 const Weeklycard = () => {
     return (
-        <div>
-            <h1>Haiiii apa kabar</h1>
-        </div>
+        <Carousel />
     )
 }
 
