@@ -12,7 +12,7 @@ const Wrapper = styled.section`
     display: block;
     top: 2640px;
     left: 0px;
-    height: 1800px;
+    height: 1150px;
     width: 1050px;
     overflow: hidden;
     padding: 1.5rem;

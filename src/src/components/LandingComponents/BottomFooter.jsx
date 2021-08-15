@@ -13,7 +13,7 @@ const Footer = styled.div`
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  min-height: 100vh;
+  min-height: 50vh;
   flex-direction: column;
 `
 const Image = styled.div`
