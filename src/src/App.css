@@ -13,34 +13,3 @@ a:hover {
   text-decoration: none;
 }
 
-<<<<<<< HEAD
-=======
-.App {
-  background: #E5E5E5;
-}
-
-.getStarted {
-  font-family: 'Poppins';
-  font-size: 2.5em;
-  text-align:center;
-  font-weight:bold;
-}
-
-.getStarted {
-  font-family: 'Poppins';
-  font-size: 2.5em;
-  text-align:center;
-  font-weight:bold;
-}
-
-#getStartedImg {
-  width: 7em;
-  height: auto;
-  transition: all 0.5s ease;
-  transform: scale(1);
-}
-
-#getStartedImg:hover {
-  transform: scale(1.05) perspective(1px)
-}
->>>>>>> development
