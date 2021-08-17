@@ -5,19 +5,19 @@ const Navbar = () => {
   // ROutenya, karena gw ga tau, silahkan di patch!
   let rutes = [
     {
-      rute: "one",
+      rute: "",
       name: "weekly's top",
     },
     {
-      rute: "two",
+      rute: "",
       name: "Home",
     },
     {
-      rute: "three",
+      rute: "category",
       name: "Category & Review",
     },
     {
-      rute: "four",
+      rute: "",
       name: "About us",
     },
   ];
